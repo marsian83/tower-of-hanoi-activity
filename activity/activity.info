@@ -1,0 +1,9 @@
+[Activity]
+name = Tower Of Hanoi
+activity_version = 1
+bundle_id = org.sugarlabs.towerofhanoi
+icon = toh
+exec = sugar-activity3 activity.TowerOfHanoiActivity
+license = GPLv3+
+summary = A Puzzle and Strategy game
+repository = https://github.com/marsian83/tower-of-hanoi-activity.git
